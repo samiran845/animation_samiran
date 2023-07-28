@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/animation_samiran/static/css/main.b831124e.css",
-    "main.js": "/animation_samiran/static/js/main.53db5e27.js",
-    "index.html": "/animation_samiran/index.html",
-    "main.b831124e.css.map": "/animation_samiran/static/css/main.b831124e.css.map",
-    "main.53db5e27.js.map": "/animation_samiran/static/js/main.53db5e27.js.map"
+    "main.css": "/Portfolio_Samiran_Maity/static/css/main.b831124e.css",
+    "main.js": "/Portfolio_Samiran_Maity/static/js/main.53db5e27.js",
+    "index.html": "/Portfolio_Samiran_Maity/index.html",
+    "main.b831124e.css.map": "/Portfolio_Samiran_Maity/static/css/main.b831124e.css.map",
+    "main.53db5e27.js.map": "/Portfolio_Samiran_Maity/static/js/main.53db5e27.js.map"
   },
   "entrypoints": [
     "static/css/main.b831124e.css",
